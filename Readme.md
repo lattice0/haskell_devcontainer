@@ -1,0 +1,1 @@
+Open in VSCode. If you have the `ms-vscode-remote.remote-containers` and docker setted properly, it should popup with a dialog to open this project in container. Then you can se VSCode's terminal to use cabal, stack, etc.
