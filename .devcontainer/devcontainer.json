@@ -1,8 +1,9 @@
 {
 	"name": "Haskell environment",
-	"dockerFile": "../docker/Dockerfile",
+	"dockerFile": "Dockerfile",
 	"extensions": [
-		"haskell.haskell"
+		"haskell.haskell",
+		"ms-azuretools.vscode-docker"
 	],
 
 }
