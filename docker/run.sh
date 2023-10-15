@@ -1,1 +1,0 @@
-sudo docker run -it hask_dev /bin/bash
