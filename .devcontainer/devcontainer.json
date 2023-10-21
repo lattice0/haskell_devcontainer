@@ -1,6 +1,7 @@
 {
 	"name": "Haskell environment",
 	"dockerFile": "Dockerfile",
+	"remoteUser": "dev",
 	"extensions": [
 		"haskell.haskell",
 		"ms-azuretools.vscode-docker"
